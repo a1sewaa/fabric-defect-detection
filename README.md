@@ -1,9 +1,6 @@
 
 
-Useful links:
-- Dataset: [AITEX fabric image database](https://www.aitex.es/afid/)
-- Article: [Medium](https://medium.com/@sadanalog/a-practice-of-fabric-defect-detection-by-using-cnn-c3e7c2a1088d)
-monstration of this application will provide us with crucial information for the surging interest of this emerging field of deep learning.
+Dataset can be accessed upon request.
 
 ## Reference
 -   [Gradient-Based Learning Applied to Document Recognition](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
